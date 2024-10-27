@@ -12,7 +12,7 @@
 
 - ✨ Creating bugs since 2019
 - 📚 I'm currently learning Angular and nestjs.
-- 🎯 Goals: .
+- 🎯 Goals: To progress in my career and learn more about technoglogy.
 - 📫 Contact me: [christian.hasbani@outlook.com](mailto:christian.hasbani@outlook.com) 
 ###
 
