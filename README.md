@@ -27,7 +27,7 @@
 <h2 align="left">Frameworks, Databases, and DevOps Tools</h2>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,angular,jquery,dotnet,flask,mysql,sqlite,redis,pytorch,git,github,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,angular,jquery,dotnet,flask,mysql,sqlite,redis,nestjs,pytorch,git,github,docker,linux)](https://skillicons.dev)
 
 ###
 
