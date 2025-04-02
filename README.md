@@ -11,7 +11,7 @@
 ###
 
 - ✨ Creating bugs since 2019
-- 📚 I'm currently learning Angular and nestjs.
+- 📚 I'm currently learning Spring Boot JAVA.
 - 🎯 Goals: To progress my career and learn more about technoglogy.
 - 📫 Contact me: [christian.hasbani@outlook.com](mailto:christian.hasbani@outlook.com) 
 ###
@@ -27,7 +27,7 @@
 <h2 align="left">Frameworks, Databases, and DevOps Tools</h2>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,jquery,dotnet,flask,mysql,sqlite,redis,pytorch,git,github,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,angular,jquery,dotnet,flask,mysql,sqlite,redis,pytorch,git,github,docker,linux)](https://skillicons.dev)
 
 ###
 
